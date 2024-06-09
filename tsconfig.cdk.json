@@ -1,0 +1,8 @@
+{
+  "include": ["bin", "lib"],
+  "compilerOptions": {
+    "composite": true,
+    "module": "CommonJS",
+    "target": "ES2017"
+  },
+}

@@ -1,5 +1,18 @@
 # React-shop-cloudfront
 
+## AWS Scripts
+
+1. Bootstrap `npm run build:bootstrap`
+2. Deploy `npm run build:deploy`
+3. Destroy `npm run build:deploy`
+
+Cloudfront domain: https://dbiwlwhbu7p2s.cloudfront.net/
+S3 Bucket url: http://rss-task2-static-bucket.s3-website-us-west-1.amazonaws.com/
+
+---
+
+## Overview
+
 This is frontend starter project for nodejs-aws mentoring program. It uses the following technologies:
 
 - [Vite](https://vitejs.dev/) as a project bundler
