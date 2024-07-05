@@ -81,6 +81,7 @@ export default function Header() {
             </Menu>
           </div>
         )}
+        <h1>Hello World</h1>
         <Cart />
       </Toolbar>
     </AppBar>
